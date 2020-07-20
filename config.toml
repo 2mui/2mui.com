@@ -1,0 +1,94 @@
+baseURL       = "/"
+languageCode  = "en-us"
+title         = "二木设计 | 专业UI设计"
+theme         = "roxogit"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "主页"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "关于"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "案例"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "新闻"
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "联系我们"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "优秀的作品来源于创新"
+    tagline               = "专业   思考   创新"
+    primary_button        = "作品集"
+    primary_button_url    = "portfolio"
+    secondary_button      = "联系我们"
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "最近项目"
+    subtitle  = "精心体验式设计，力求将复杂的事物变得清晰美丽."
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "LET’S WORK TOGETHER"
+    primary_button      = "提交需求"
+    primary_button_url  = "contact"
+    secondary_button    = "专业能力"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "联系方式"
+      address = "武汉市洪山区.<br>武大科技园豪迈大厦1栋106"
+      phone   = "18671744221"
+      email   = "lanlinghj@qq.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "网站地图"
+        [[params.footer.sitemap.link]]
+          name = "关于我们"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "产品服务"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "新闻纪事"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "联系我们"
+          url  = "contact"
+      # Footer Service
+      [params.footer.service]
+        title       = "我们帮助您:"
+        description = "节约人工成本<br>提供更专业的设计<br>提高产品竞争力"

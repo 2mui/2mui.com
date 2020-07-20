@@ -1,0 +1,30 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : 王林
+    designation : 产品经理
+    qq          : http://wpa.qq.com/msgrd?v=3&uin=615564858&site=在线客服&menu=yes
+    phone       : wtai://wp/ap;18671744221
+    envelope    : mailto:1131523088@qq.com?subject=UI设计&subject=需求设计&body=需求描述
+
+  - image       : images/team/team-member-two.jpg
+    name        : MONTINO RIAU
+    designation : Product Manager
+    qq          : http://wpa.qq.com/msgrd?v=3&uin=615564858&site=在线客服&menu=yes
+    phone       : wtai://wp/ap;18671744221
+    envelope    : mailto:1131523088@qq.com?subject=UI设计&subject=需求设计&body=需求描述
+
+  - image       : images/team/team-member-four.jpg
+    name        : HONGMAN CHIOA
+    designation : UX Researcher
+    qq          : http://wpa.qq.com/msgrd?v=3&uin=615564858&site=在线客服&menu=yes
+    phone       : wtai://wp/ap;18671744221
+    envelope    : mailto:1131523088@qq.com?subject=UI设计&subject=需求设计&body=需求描述
+
+  - image       : images/team/team-member-five.jpg
+    name        : SANTIO ANDRESS
+    designation : Content Researcher
+    qq          : http://wpa.qq.com/msgrd?v=3&uin=615564858&site=在线客服&menu=yes
+    phone       : wtai://wp/ap;18671744221
+    envelope    : mailto:1131523088@qq.com?subject=UI设计&subject=需求设计&body=需求描述
