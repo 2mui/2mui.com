@@ -5,6 +5,6 @@
 
 ```
 git clone xxxxx
-git submodule update --init --force --remote
-hugo serve -D
+hugo serve -D -p 9999
+open http://localhost:9999
 ```

@@ -5,6 +5,11 @@
 # open https://ermu.df1228.vercel.app
 
 
+# hugo --baseURL=/ --gc --minify
+# rsync -avP public/* ucloud.bj:~/ermu/
+# ssh ucloud.bj "sudo cp -r ermu/* /var/www/html/ermu/ && caddy reload --config /etc/caddy/Caddyfile"
+
+
 hugo --baseURL=/ --gc --minify
-rsync -avP public/* ucloud.bj:~/ermu/
-ssh ucloud.bj "sudo cp -r ermu/* /var/www/html/ermu/ && caddy reload --config /etc/caddy/Caddyfile"
+rsync -avP public/* ermu:~/ermu/
+ssh ermu "sudo cp -r ermu/* /var/www/ermu/ && caddy reload --config /etc/caddy/Caddyfile"

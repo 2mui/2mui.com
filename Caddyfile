@@ -1,0 +1,10 @@
+www.2mui.com {
+  log
+  root * /var/www/html/ermu
+  file_server
+}
+
+2mui.com {
+  log
+  redir https://www.2mui.com permanent
+}
