@@ -1,36 +1,125 @@
 ---
-title: "Design inspiration the best projects from December"
-date: 2019-12-24T13:45:06+06:00
+title: "2020-2021 设计趋势报告：用户体验篇"
+date: 2020-7-24T13:45:06+06:00
 image: images/blog/blog-post-04.jpg
 feature_image: images/blog/blog-details-image.jpg
-author: Alexender Schoitiz
+author: ermu
 ---
-### Black Lines brand identity, by & Smith
+2020-2021 设计趋势报告：用户体验篇.
+### 前言.
+######     身为用户体验设计师，无时无刻不被世界上的新事物冲刷着认知——互联网红利下降带来变化莫测的商业动向、循着摩尔定律野蛮生长日新月异的新技术、各类亚文化群体催生出多元复杂的圈层文化、脑洞口味越来越独特的年轻人，甚至眼下席卷全球的黑天鹅事件……
+###### 任何一个新事物的悄悄冒头，都有可能在未知的将来影响着用户体验设计师。我们能做的是，在起初感受到微微震幅时，便沿着震感逐步寻找源头，并思考未来的发展走向。赶在变化降临前先拥抱变化。
+![blog-1-1](/images/blog/blog-1-1.jpg)
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+###### 本文通过研究近一两年科技、社会文化以及自身用户体验领域的变化，从用户体验领域关键的用户、媒介(设备与应用）、交互行为、信息与场景的五个角度出发，探索用户体验设计未来的趋势，希望能带来启发。
+![blog-1-2](/images/blog/blog-1-2.jpg)
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+#### 更智能的服务提供方式
+随着人工时代到来，过去机械的单向交互方式逐渐被打破，机器渐渐演化成了会主动「观察」真实场景，「感受」用户情感，预判用户意图并自动完成任务的贴心小棉袄。机器如何为人们提供更智能便捷的服务，未来还有非常大的想象空间。
+![blog-1-3](/images/blog/blog-1-3.jpg)
+#### 更自然丰富的交互方式
+回顾人类和机器的交流语言，从命令行界面、图形用户界面到自然用户界面，人机交互方式越来越贴合人与人之间更自然的交流方式，其背后是心智模型与实现模型的高度拟合的趋势。
+在自然用户界面中，为满足新形态智能硬件对新接口的需求，以及人们对更丰富强大的交互方式的自然诉求，越来越多的自然用户界面被开发出来。语音交互和隔空手势交互便是近几年迅速发展并落地的两种交互方式。
+#### 硬件形态带来新的挑战
+尽管乔布斯曾断言3.5英寸是手机的黄金尺寸，但作为人们日常内容消费与娱乐的窗口，手机屏幕毫无疑问地变得越来越大，甚至超出传统物理限制。人们对大屏享受的追求与设备携带便捷性之间的矛盾由来已久，硬件形态的变化对旧有的用户体验设计思路带来的新的挑战。
+#### 疫情催生新的线上体验
+席卷全球的新冠疫情让数十亿用户乖乖待在家里。过去需要花费大量精力去教育的用户使用习惯因为疫情纷纷转变。云购物、云蹦迪、云赏樱、云监工……人们足不出户便可还原许多线下场景。随着用户线上和线下生活的界限进一步模糊，用户对于应用的效率和情感诉求也发生了变化。
+#### 关注以人为本
+在汹涌的资本语境下，互联网设计师裹挟在商业驱动的结果导向中狂奔，对设计的伦理和责任鲜有发声，但伴随着互联网红利退潮，发展放缓，狂奔之下的人本问题也逐渐浮出水面。在大趋势下，UX设计师需要培养自身设计对伦理和责任的敏感度，在满足商业目的外，重拾节操，为多群体，为大社会设计，更加注重「以人为本」。
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+##### 1. 更包容性的设计
+包容性设计师指在做设计产品的时候，考虑到各类用户的诉求，输出具有包容性的设计方案。包容性设计依旧是2020年设计主题之一，伴随着互联网产品全球化，在通用性和包容性上也提出了新的要求。
+![blog-1-4](/images/blog/blog-1-4.jpg)
+##### 2. 关注用户隐私
+2019是互联网科技隐私问题沉浮的一年，国外有Facebook因泄露隐私收到史上最大罚单，国内则打响了「人脸识别第一案」。笼罩在隐私信任危机下，个人信息和数据立法突飞猛进，美国推动《加州消费者隐私法案》，国内也将在2020年出台《个人信息保护法》和《数据安全法》。
+### UI的继承和创新
+##### 1. 深色模式
+2019年iOS 13深色模式姗姗来迟，紧接着大厂APP相继推出此功能。在2020年，深色模式会继续普及外，也会在可视性和实现成本方面有更多细节打磨和研究。
+![blog-1-4](/images/blog/blog-1-5.jpg)
+![blog-1-4](/images/blog/blog-1-6.jpg)
+##### 2. 新拟态
+设计趋势的发展是螺旋式上升的，在扁平化设计流行之后，对物体的拟真再一次回归设计圈，新拟态以一种对旧拟物风格的再创新，重新流行起来。
+新拟物风格（Neumorphism）缘起于设计师Alexander Plyuto发布在dribbble的一组作品，以投影重新对扁平界面进行了塑造，模仿出类似浮雕的视觉效果，感受耳目一新，引起大量设计师相尽模仿。
+新拟态的实用性和可落地性有待商榷，但是作为一种新的风格受到设计师拥趸，也不失为下一波风潮到来前的灵感缪斯。
+![blog-1-4](/images/blog/blog-1-7.jpg)
+WWDC2020对mac OS的更新也重新定义了新拟态设计语言，在mac OS新系统Big Sur中，图标的设计增添了轻微的渐变、投影、高光，以此来营造图标内元素之间的纵深关系。
+![blog-1-4](/images/blog/blog-1-8.jpg)
+##### 3. 多彩配色
+在扁平简洁UI风格盛行之后，丰富的色彩依旧是设计趋势之一，大面积色块，碰撞配色，带来更具冲击感的视觉体验。
+![blog-1-4](/images/blog/blog-1-9.jpg)
+##### 4. 字体装饰化
+UI界面逐渐扁平，色块图标弱化，为突出页面重心和内容，iOS 11在界面标题上使用更大的字号，更粗的字重。近年在大标题的风格衍变下，文字在传达信息外，也开始有了装饰性作用，采用超大字体，成为页面排版美化的一部分。
+![blog-1-4](/images/blog/blog-1-9.gif)
+![blog-1-4](/images/blog/blog-1-10.gif)
+![blog-1-4](/images/blog/blog-1-11.gif)
+##### 5. 更大圆角
+大圆角的风格会继续延续，相较以往，卡片的处理圆角会更大，随之带来的是多的留白处理，结合大字号，带来更透气通透的视觉感受。
+![blog-1-4](/images/blog/blog-1-10.jpg)
+Mac OS Big Sur的界面相对旧版本采用了更大的圆角；系统图标的设计统一成圆角矩形。
+![blog-1-4](/images/blog/blog-1-11.jpg)
+![blog-1-4](/images/blog/blog-1-12.jpg)
+##### 6. 更丰富的插图
+UI插图的丰富体现在样式和内容上，样式上开始3D化，内容上更注重插图叙事的表达。
+##### 7. 3D插图
+3D图形往年更多运用在动态影像或运营类设计中，随着3D的普及运用，UI插图也会迎来3D化，给用户带来更立体，更新鲜的视觉感受。
+![blog-1-4](/images/blog/blog-1-13.jpg)
+##### 8. 讲求叙事表意
+相较于往年追求形式的UI插图，新趋势下的插图更讲求功能性，每一副插图都承载一定的作用——传达功能信息或透传品牌情感；同时插图更讲求画面表意和情节，给用户叙事性的视觉体验，增进用户和产品之间的情感联系。
+![blog-1-4](/images/blog/blog-1-14.jpg)
+##### 9. 插图组件化
+插画的流行，随之而来的是成本的水涨船高——一套系列插图为保持风格统一，往往由唯一设计师绘制，同时为兼容各类场景，设计师往往要绘制多张。
+为解决插图的成本和效率，插图开始以组件化的方式进行绘制——插图设计师将插画进行拆分绘制——不同人物，不同场景，不同物件等，再通过组件化的拼接合成，使用组件的设计师可以根据需求场景自由组合，也避免了风格不统一问题。
+设计师Pablo Stanley将日常绘制的插画制成一套矢量插图组件库，将人物分为：半身、全身和坐姿3大类。通过不同表情、发型和服装可自由搭配出近60万种组合。
+##### 10. 多维度动画表现
+新趋势下，动画一方面回溯复古线描手绘风格，另一方面追求更三维的体验，同时帧率进一步提升，追求更流畅的视觉感受。
+##### 11. 手绘动画
+手绘插图是往年的热门，其随性自然的笔触，能给用户带来亲切的感受，在新的趋势下，动画的加入赋予手绘插图一份灵性和趣味。
+![blog-1-4](/images/blog/blog-1-15.gif)
+![blog-1-4](/images/blog/blog-1-16.gif)
+##### 12. 3D运动
+Google Material Design通过卡片投影层级和二维动画规律，赋予扁平界面Z轴的纵深感。随着3D的普及流行，新趋势下的界面，界面的运动从二维走向三维，表现出3D场景下透视感。
+![blog-1-4](/images/blog/blog-1-17.gif)
+![blog-1-4](/images/blog/blog-1-18.gif)
+##### 13. 高帧率动画
+高帧率影视从线下电影院移步到线上流媒体，手机高帧率屏幕从90Hz到120Hz逐步升级，用户对画面流畅的定义一再刷新，UI动画的帧率升级也会是新的一轮趋势。
+Telegram的表情采用了高帧率动画，给用户更流畅的视觉感受。
+![blog-1-4](/images/blog/blog-1-19.gif)
+### 更高效的涉及协作方式
+体验的持续升级，产品的高速迭代，对UX设计师的设计师效率提出了更高的要求。高效的设计方式是一个永恒的趋势。
+##### 1. 从本地文件到云端协作
+传统的文件交接方式效率低下，导致设计师之间信息不对称，最终影响产品的一致性体验。近些年在线设计协同工具发展迅速，从UI设计、 设计交付以及组件协同等环节上给设计师提供更加高效实时的协作体验，获得大量UX设计师的簇拥。在2019 uxtool的设计工具调研中，在线设计协同工具佼佼者figma以其协作和性能优势，大有追赶sketch之势。
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+随着团队对设计效率要求的提高，设计文档从本地走向云端协作是不可逆趋势。不过设计工具的迭代是需要成本的，尤其在大型设计团队，设计工具需要渡过阵痛期来完成迭代，进而提升设计效率和体验一致性。
+##### 2. 科学有效的设计系统
+UX的发展，从早期的静态规范到当下的动态设计系统，是为解决产品迭代增速后带来的设计效率和产品体验问题。商业驱动下的产品迭代速度有增无减，设计系统依旧会是未来几年的设计趋势之一。
+这里说的设计系统不是广义上的设计系统，而是在互联网设计的发展中，对组件化设计逐步迭代升华的一套设计协作方法：
+「设计系统（Design systems）是一组为了共同目标而服务的内在相互联系的设计模式和多人协同执行的方法。」（引自《Design systems》，Alla Kholmatova，C7210翻译）。
+##### 3. 设计系统历程衍变
+组件化的发展历经规范文档到UI组件，再到设计系统，形态从最初对设计一致性的指导规范，到对产品研发流程的规范，以及产品设计价值观的输出，当下的设计系统以集大成者形式影响整个产品的设计形态。
+![blog-1-4](/images/blog/blog-1-20.jpg)
+设计系统的结构见下图：
+![blog-1-4](/images/blog/blog-1-21.jpg)
+##### 4. 设计系统的求同存异
+设计系统并非一成不变的，他是一个动态进化的系统，会根据团队性质、产品特性在内容上有所区分——比如大团队更应该大而全，小团队更倾向小而精；成熟产品的设计系统更倾向于打造完整闭环的合作流程机制，新产品的设计系统应该以小为始，快速迭代……
+随着产品的垂直化，细分化，设计系统的趋势会是在趋势大同之下找到适合产品和团队自身的形态和节奏。
+Material Design是一个包含了指导规范、组件，以及设计开发工具的自适应性设计系统。
+它作为平台型性设计系统，更为大而全的规范了整个生态系统的设计风格，以及提供工具让研发者能快速产出符合规范的产品。
+![blog-1-4](/images/blog/blog-1-22.jpg)
+Google生态庞大繁杂，Material Design更为全面
+Ant Design作为一个为to B产品提供解决方案的平台，更多从设计可用性和完整性考虑设计系统的搭建。
+![blog-1-4](/images/blog/blog-1-23.jpg)
+Ant Design通过模块化解决方案，降低冗余的生产成本，让设计者专注于更好的用户体验
+QQ作为一款面向95后的2C社交产品，其设计系统Q语言从风格调性上对设计进行规范，同时给予设计师一定的自由度；也考虑到QQ内兼顾多个产品，以及界面主题样式，对基础组件的使用场景和代码进行了规范，方便设计和开发敏捷开发。
+![blog-1-4](/images/blog/blog-1-24.jpg)
+Q语言，给予产品的自由调性之外，也针对主题和基础组件进行了规范。
+每个产品和团队都有自身的特征，设计系统的建设也应该有的放矢，没有可照搬的标准答案，在大方向下找到适合自身的解决方案才是的可行之道，将效率最大化。
+##### 5. 科学有效的优化迭代
+组件是设计系统中的重要组成部分，但是以往静态的、孤立的协作方式使得组件的更新迭代滞后和阻塞。随着设计系统的发展，设计师组件化思维的普及，组件的更新需要更科学高效的方式进行管理。
+Figma在2019年推出的Design System Analytics功能，组件设计师可以借此查看组件的使用情况，包括引用次数，解组次数等，并可以生成组件使用情况的曲线趋势图，以数据的形式，科学高效地推动组件的优化迭代。
+![blog-1-4](/images/blog/blog-1-25.jpg)
+选择分析的时间段；组件使用的次数曲线图；团队使用情况；所有组件使用情况
+### 后记
+未来的用户体验会出现什么新趋势？人工智能等算法的发展、5G技术普及、新的智能设备形态、新的信息处理技术、新一代用户的喜好和口味……这些往后或将影响用户体验发展的走向。未来用户对体验的要求只会越来越高。
+用户体验设计师需要了解更多的技术动向，但安身立命之本还是让用户真正受益：立足于用户真实使用场景，在理性价值层面上，打造可用、易用、高效的设计；在感性需求层上赋予情感上的愉悦性，在反思层面赋予意义价值。
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-
-
-> Paul Rand, graphic designer
 
