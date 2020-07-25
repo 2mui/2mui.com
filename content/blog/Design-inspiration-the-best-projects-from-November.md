@@ -1,37 +1,34 @@
 ---
-title: "Design inspiration the best projects from November"
-date: 2019-12-24T13:36:06+06:00
-image: images/blog/blog-post-02.jpg
+title: "引领视觉营销新趋势，图虫获2020金鼠标数字营销创新力大奖"
+date: 2019-12-24T12:58:17+06:00
+image: images/blog/blog-post-01.jpg
 feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---
-### Black Lines brand identity, by & Smith
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 月 23 日，第 11 届金鼠标数字营销大赛正式公布获奖名单。凭借领先的产品技术实力和广泛的客户认可，图虫从众多平台中脱颖而出，获得「年度数字营销创新力互联网平台」大奖。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为「数字营销领域的风向标」，金鼠标一直肩负着记录行业发展进化和颠覆创新的使命，挖掘并传递数字营销的黄金价值。本届金鼠标数字营销大赛共有 1300 余件作品参赛，涉及品牌广告主 600 余家。此次，图虫摘得大奖，不仅展现出其在行业里不俗的营销实力，更是业界对图虫在视觉营销领域突出成绩的最大认可。
+![blog-4](/images/blog/4-0.jpg)
+#### 独具创新的视觉素材打造沉浸式体验
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这个信息爆炸、渠道爆炸的时代，传播形式和媒介触点越来越多样化，用户的注意力被无限分散，唯有好的视觉呈现才能使品牌传播效果最大化。
+图虫所打造的「视觉沉浸式体验」，就是一种很好的方式，即让用户通过「眼观」感受到更多的交互。这就要求必须通过创新、优质的视觉内容素材来更好地展现营销创意，把品牌信息直接有效地传达给受众，从而促进品牌影响力提升和购买转化。
+##### 优势一：强化创新内核，行业一流素材库打造「灵感资源池」
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前，图虫已成为世界上最大的创意社区 Adobe Stock 在中国的独家合作伙伴，Adobe Stock 日更新图片数 20 万，图虫日更新 15 万左右，几乎成为全球更新最快、最创新的素材库。
+图虫不仅在数量上足够「新」，而且在内容上追求「新」。图虫拥有 800 万专业摄影师资源，每天用镜头记录世界，并在图虫平台持续更新原创图片作品，不断强化新鲜素材的内容供给。而 Adobe 是全球创意人必用的工具，在此基础上建立的 Adobe Stock，拥有全球最创新的创意素材。
+##### 优势二：更丰富、更国际化的视觉资源满足不同人群创新营销需求
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图虫代理了玛格南、EyeEm、Bridgeman、British Museum、法国博物馆联盟、TongRo 等不同类型的高端视觉版权资源。与 Adobe Stock 合作后，图虫在不同产品线上的视觉资源都更加丰富、更具国际化和多元化，可以更好地为品牌提供包括视觉版权内容、视觉内容聚合传播、高端视觉商业定制的一站式视觉营销解决方案。
+目前，不同人群可以通过图虫平台获取到更多世界范围内的视觉灵感：一方面更好地服务设计师和创意人群，帮助他们获取最新鲜的视觉灵感；另一方面为市场人、新媒体等行业从业者提供更创新的图片素材，帮助他们做创新的数字营销。
+#### AI驱动+区块链保护让视觉营销更智能
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术的发展让创意的实现变得更加容易，尤其是 AI 的发展。图虫基于 AI 的智能搜索、智能识图、以图搜图，实现了营销素材的中心化管理；基于 AI 驱动的美学评分和用图，让素材使用数据非常清晰，使营销效果最大化；基于 AI 的自动审核和智能标签，让图虫成为国内最大的供稿平台，满足多样化创意需求。
+图虫持续推动 AI 技术迭代升级，让视觉营销变得更加的简单、有序、智能、精准。基于 AI 驱动的创意用图，让营销效果最大化的同时也使 ROI 最大化。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同时，图虫通过区块链技术搭建了一个面向产业链上下游的版权保护和服务的平台。对于生产者而言，发布即存证，证书可直接作为强有力的维权证据，不需要通过版权服务中心，也不需要费用，今年 3 月上线以来，目前已经超过 800 万作品完成登记。对于使用者而言，作为业内首家在图片供稿平台上线智能签约的平台，图虫通过生产者授权协议来追责，让整个版权链条可以追溯，保护了图片使用者，即企业客户的正版用图权益。此外，图虫不但通过碳计划主动保护被侵权摄影师的合法权益，还搭建了图片版权使用的指南和知识分享体系，为企业普及版权知识，让他们正确使用正版图片。
+#### 场景化营销让价值直达用户
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图虫认为，创意不仅仅是一种感觉，更是一种经过精心计算的领导力，而产品本身就是创意，体验就是创意的实现。在场景化营销时代下，「产品+场景」的形式，会潜移默化地影响用户认知，从而影响购买决策行为。这种影响，会因行业属性的不同，所需要的「场景化」也不同。
+目前，图虫为在线教育、快消、汽车、互联网等内容行业的企业和创作者均提供场景化的内容创作素材，助力其品牌价值直达用户。
+在图虫和滴滴共同策划的「疫情下的逆行者」组图海报案例中，从人物的选择——9 位普通抗疫司机，到通过场景化共情——故事性的视觉画面，配合媒介的选择让记忆点传播最大化，对滴滴保障出行健康的品牌价值进行了全方位视觉化解读和传递。
+#### 图虫：以「视觉力」打造「品牌力」
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很多时候，打动用户的就是一个场景或画面，就能对品牌产生深刻的印象或引起共鸣，最终提升用户对品牌的认可和消费转化。从视觉内容的创意策划到「场景化」的视觉呈现和传播，图虫所做的，就是助力品牌主做好极具创造力和创新的视觉营销，帮助他们彰显其品牌价值，塑造其品牌形象。通过「营销内容视觉化」，让信息变得更吸引人，引起消费者互动和共鸣。
+未来，图虫将继续紧随市场和营销环境的变化，为客户提供更优质的一站式视觉营销解决方案，助力企业视觉内容生产和影响力传播。
+![blog-4](/images/blog/4-1.jpg)
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
-
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
-
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
-
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-
-
-> Paul Rand, graphic designer
 
 

@@ -1,36 +1,52 @@
 ---
-title: "Pt chooses Classic Blue for its colour of the year 2020"
+title: "中国设计趋势报告“德国劳尔RAL 48趋势色彩集 "
 date: 2019-12-24T13:32:54+06:00
 image: images/blog/blog-post-03.jpg
-feature_image: images/blog/blog-details-image.jpg
-author: Alexender Schoitiz
+feature_image: images/blog/2.jpg
+author: 二木
 ---
-### Black Lines brand identity, by & Smith
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每年到了3月，设计圈就会聚焦“设计上海”，这已成为每年不可错过的亚洲设计盛会。今年受到“设计上海”再度邀请，中国前瞻思维的设计顾问公司YANG DESIGN在上海展览中心策展《中国设计趋势报告》，策展期间联手顶级色彩机构德国劳尔RAL共同呈现符合未来市场的四大设计趋势中的色彩部分。
+![blog-3](/images/blog/3-1.jpg)   
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+此次展览现场如同是走进由数据编织的虚拟世界。当观众走上楼梯时，会发现墙面有许多内凹的“黑洞”，其中藏有YANG DESIGN根据四大趋势陈列的色彩、材质、表面处理的展品。  
+![blog-3](/images/blog/3-2.jpg)   
+全球设计界所关心的话题无非就是什么样的产品设计  
+符合未来的消费市场？影响趋势的因素有哪些？哪些趋势适合中国市场？基于专属四步趋势预测法，对2019-2020年中国设计趋势研究，建立在对年度整体社会形态、消费趋势的研究，以及与六大领域专家访谈的基础上，提出符合中国人生活形态的预测，并由此引出适用于各行业的2019-2010四大设计趋势主题：战袍，慢托邦，数据诗，虚山水。对应每个趋势主题，提出色彩、材质、表面处理(即Color，Material，Finish，简称“CMF”)的提案。
+##### 战袍：随性点燃的年轻宣言
+![blog-3](/images/blog/3-3.jpg)   
+![blog-3](/images/blog/3-4.jpg)
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+第一个趋势是“战袍”，针对勇敢、天马行空的“燃”一族。年轻人把嘻哈、游戏和表情包奉为不按常理出牌的真我沟通方式，以德国劳尔色彩RAL COLOURS呈现的高能量、高对比、高彩度色彩反映了随时会被点燃的对抗情绪，中国设计趋势展区展出的“战袍”的趋势主题，彰显中国年轻人价值观的展品。
+![blog-3](/images/blog/3-5.jpg)  
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+譬如：SK-II限量涂鸦版神仙水，高彩度的色彩涂鸦，结合“决定成为什么样的人”等立志暖心的文案。致敬所有年轻之心，传达“倾听自我，勇敢无畏，相信每个人都可以”的宣言，是这个品牌迄今最为年轻化的包装设计。  
+![blog-3](/images/blog/3-6.jpg) 
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+譬如：蒂佳婷Shake & Shot Rubber Brightening面膜包装采用了形似软饮料一次性杯的造型，给人带来一种不想长大的童真。包装通过高彩度的四种不同颜色来对应不同的功效，以幽默轻松、有趣的方式，与年轻消费者之间构建起情感的连接。
+![blog-3](/images/blog/3-7.jpg)
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+譬如：《王者荣耀》开启了全民游戏时代，游戏中大量运用金属色、灯光等酷炫、震撼的CG动画效果，圈粉无数游戏爱好者，2017年《王者荣耀》IOS下载量超过了微信、淘宝。《王者荣耀》与M.A.C合作推出的联名款，一上市就抢购一空。
+###### 慢托邦：逃离快都市的空想
+![blog-3](/images/blog/3-8.jpg)
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+第二个趋势是“慢托邦”，我们观察到因焦虑而产生希望逃离被压缩的生活，丧、佛系成为麻醉自我的精神解脱，人们急需高颜值的心灵鸡汤，以温暖淡色调代表着柔和、惬意、治愈、健康的消费趋势已成为朋友圈中高颜值的存在。
+###### 数据诗：对算法艺术的崇拜
+![blog-3](/images/blog/3-9.jpg)
+![blog-3](/images/blog/3-10.jpg)
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+ 第三个趋势是“数据诗”，在技术、舆论和商业的推动下, 公众开始崇拜算法，把数据当做值得迷恋的工艺品。人工智能，大数据，VR/ AR等前沿技术的迅猛发展使越来越多在早期赛博朋克（1980年代）作品中提及的未来设想变为现实。
+虚山水：人文主义和数字文明的模糊边界
+![blog-3](/images/blog/3-11.jpg)
 
+第四个趋势是“虚山水”，伴随对美学和文化符号的关注，精英阶层尝试营造人文主义和数字文明、古典与未来之间的共融。
+德国材料生产商科思创Covestro以工业设计中常用的聚碳酸酯为材料，为四大趋势制作了流行色板，其中包括荧光、金属等不同特殊质感，并标注德国劳尔RAL色彩编号。
+![blog-3](/images/blog/3-12.jpg)
+![blog-3](/images/blog/3-13.jpg)
+![blog-3](/images/blog/3-14.jpg)
+![blog-3](/images/blog/3-15.jpg)
 
-> Paul Rand, graphic designer
+继去年成功推出中国设计趋势报告48趋势色礼盒之后，德国劳尔RAL色彩今年再次携手YANG DESIGN于“设计上海”期间推出200套限量版2019-2020中国设计趋势报告趋势色实物礼盒(价值568元)，中国设计趋势报告“48趋势色彩集”|全球限量发售。
+![blog-3](/images/blog/3-16.jpg)
+![blog-3](/images/blog/3-17.jpg)
 
+德国劳尔RAL色彩致力于建立颜色世界统一的沟通语言，基于国际通用的CIELAB颜色空间，颜色按色相、明度和彩度系统地排序，2528个颜色代表着高精准度与全面的颜色工具和颜色解决方案，从扇形RAL色卡、颜色原标准、数字化颜色、颜色趋势到色彩咨询类书籍，是全球建筑师、室内设计师、工业应用设计和所有颜色专业用户的首选的现代个性化颜色设计的完美工具。
