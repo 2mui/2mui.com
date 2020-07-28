@@ -17,4 +17,4 @@ echo "uploading ....."
 rsync -avP public/* ermu:~/ermu/
 
 echo "reload web server ....."
-ssh ermu "sudo cp -r ermu/* /var/www/ermu/ && caddy reload --config /etc/caddy/Caddyfile"
+ssh ermu "sudo cp -r ermu/* /home/ubuntu/ermu/ && caddy reload --config /home/ubuntu/Caddyfile"
