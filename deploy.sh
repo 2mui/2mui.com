@@ -10,6 +10,11 @@
 # ssh ucloud.bj "sudo cp -r ermu/* /var/www/html/ermu/ && caddy reload --config /etc/caddy/Caddyfile"
 
 
+echo "building ......"
 hugo --baseURL=/ --gc --minify
+
+echo "uploading ....."
 rsync -avP public/* ermu:~/ermu/
+
+echo "reload web server ....."
 ssh ermu "sudo cp -r ermu/* /var/www/ermu/ && caddy reload --config /etc/caddy/Caddyfile"
