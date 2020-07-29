@@ -46,7 +46,7 @@ hasCJKLanguage=true
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "优秀的作品来源于创新"
+    heading               = "优秀的作品源于创新"
     tagline               = "专业   思考   创新"
     primary_button        = "作品集"
     primary_button_url    = "portfolio"
