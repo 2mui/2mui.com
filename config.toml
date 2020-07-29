@@ -61,7 +61,7 @@ hasCJKLanguage=true
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
+    title               = "和我们一起合作吧！"
     primary_button      = "提交需求"
     primary_button_url  = "contact"
     secondary_button    = "专业能力"
