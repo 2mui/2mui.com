@@ -40,7 +40,12 @@ hasCJKLanguage=true
     status  = true
     name    = "Get in touch"
     url     = "contact"
-  
+    
+  [params.Info]
+    subtitle = "武汉专业UI设计"
+    keywords = "UI设计,武汉UI设计,UX设计,UE设计"
+    description = "武汉专业的UI设计,为企业去掉UI设计师，给企业节约成本"
+    title404 = "暂时无法访问"
 
   # Banner Section
   [params.banner]
