@@ -22,4 +22,22 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
   <link rel="icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />
+
+  <script type="text/javascript">
+    if ('serviceWorker' in navigator) {
+
+      navigator.serviceWorker
+               .register('/sw.js', { scope: '/' })
+               .then(function (registration) {
+
+        console.log('Service Worker Registered');
+      });
+
+      navigator.serviceWorker
+               .ready
+               .then(function (registration) {
+        console.log('Service Worker Ready');
+      });
+    }
+  </script>
 </head>
