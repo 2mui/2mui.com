@@ -5,6 +5,7 @@ type: portfolio
 image: "images/projects/9/money-wallet.jpg"
 category: ["UI/UX 金融"]
 project_images: ["images/projects/9/money-wallet-detail.jpg"]
+weight: 1112
 ---
 
 

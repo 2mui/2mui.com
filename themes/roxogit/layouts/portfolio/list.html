@@ -23,7 +23,9 @@
 <section class="site-project" id="project">
   <div class="container">
     <div class="row">
-      {{ range (.Paginator 4).Pages }}
+      {{ $portfolios := sort .Pages "Weight" "desc" }}
+      {{ $paginator := .Paginate $portfolios 7 }}
+      {{ range $paginator.Pages }}
       <div class="col-lg-6 col-md-10 mx-auto">
         <div class="site-project-item">
           <div class="site-project-item-thumb">
