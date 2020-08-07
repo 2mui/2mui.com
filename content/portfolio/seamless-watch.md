@@ -1,6 +1,6 @@
 ---
 title: "Miao"
-date: 2019-12-23T15:55:44+06:00
+date: 2020-1-1T15:55:44+06:00
 type: portfolio
 image: "images/projects/3/project-thumb-three.jpg"
 category: ["UI/UX 社交"]
