@@ -5,5 +5,6 @@ type: portfolio
 image: "images/projects/2/project-thumb-two.jpg"
 category: ["UI/UX 阅读"]
 project_images: ["images/projects/2/project-details-image-one.jpg"]
+weight: 0
 ---
 

@@ -5,6 +5,7 @@ type: portfolio
 image: "images/projects/10/hand-friend.jpg"
 category: ["UI/UX 视频"]
 project_images: ["images/projects/10/hand-friend-detail.jpg"]
+weight: 96
 ---
 
 

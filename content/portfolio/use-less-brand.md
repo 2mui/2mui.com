@@ -5,5 +5,5 @@ type: portfolio
 image: "images/projects/1/project-thumb-one.jpg"
 category: ["UI/UX 农业"]
 project_images: ["images/projects/1/project-thunm-one-details.jpg"]
-weight: 999
+weight: 97
 ---

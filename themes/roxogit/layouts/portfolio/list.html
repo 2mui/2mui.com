@@ -24,7 +24,7 @@
   <div class="container">
     <div class="row">
       {{ $portfolios := sort .Pages "Weight" "desc" }}
-      {{ $paginator := .Paginate $portfolios 7 }}
+      {{ $paginator := .Paginate $portfolios 4 }}
       {{ range $paginator.Pages }}
       <div class="col-lg-6 col-md-10 mx-auto">
         <div class="site-project-item">

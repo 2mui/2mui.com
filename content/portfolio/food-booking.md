@@ -5,5 +5,5 @@ type: portfolio
 image: "images/projects/7/food-booking.jpg"
 category: ["UI/UX 食物"]
 project_images: ["images/projects/7/food-booking-detail.jpg"]
-weight: 10111
+weight: 96
 ---

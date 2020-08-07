@@ -5,4 +5,5 @@ type: portfolio
 image: "images/projects/5/project-thumb-four.jpg"
 category: ["UI/UX 农业"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+weight: 0
 ---
