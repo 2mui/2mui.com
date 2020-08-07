@@ -34,13 +34,13 @@ hasCJKLanguage=true
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  
+
   # Navbar Action Button
   [params.navAction]
     status  = true
     name    = "Get in touch"
     url     = "contact"
-    
+
   [params.Info]
     subtitle = "武汉专业UI设计"
     keywords = "UI设计,武汉UI设计,UX设计,UE设计"
