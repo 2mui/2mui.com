@@ -1,10 +1,10 @@
 enable  : true
 title   : "客户反馈"
-subtitle: "What clients says about our services."
+subtitle: "客户对我们的评价"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+    name  : "路名超"
+    company_position: "总经理, 星林信息"
     quote : > 
             "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
   - thumb : "images/testimonial/user-thumb-four.jpg"
