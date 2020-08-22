@@ -4,3 +4,35 @@
 
 微调：
 1.案例页图片清晰度
+
+
+1.
+检查每页的keyword description
+关键字要选好
+
+2. 生成网站地图
+
+
+3. 提交到百度等
+
+https://ziyuan.baidu.com/linksubmit/url
+
+
+sitemap.xml
+
+联系我们数据提交金数据
+
+
+curl -v -u ktAF6IyhZPZoRuyKuuaYRw:uhsvWAdrWcx-svHL-d2LtA https://jinshuju.net/api/v1/forms/dKGgAT
+
+API Key:ktAF6IyhZPZoRuyKuuaYRw
+API Secret:uhsvWAdrWcx-svHL-d2LtA
+https://jinshuju.net/f/dKGgAT
+
+
+curl -v -u ktAF6IyhZPZoRuyKuuaYRw:uhsvWAdrWcx-svHL-d2LtA POST https://jinshuju.net/api/v1/forms/dKGgAT -H Content-Type:application/json -d '{ "field_1": "13523456789", "field_2": "段访", "field_3": "df1228@gmail.com", "field_5": "1111" }'
+
+
+https://stackoverflow.com/questions/5507234/use-basic-authentication-with-jquery-and-ajax
+
+use zepto instead of jQuery
