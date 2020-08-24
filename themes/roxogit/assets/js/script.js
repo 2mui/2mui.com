@@ -33,11 +33,12 @@ $(document).ready(function() {
     //   "field_4": $("textarea[name='description']").val(),
     // }
     // console.log(d)
+    // 金数据文档说是支持json提交，其实是要用表单提交
     var form = new FormData();
     form.append("field_1", $("input[name='first-name']").val());
     form.append("field_2", $("input[name='phone']").val());
-    form.append("field_1", $("input[name='email']").val());
-    form.append("field_1", $("textarea[name='description']").val());
+    form.append("field_3", $("input[name='email']").val());
+    form.append("field_4", $("textarea[name='description']").val());
 
     var settings = {
       "url": "https://jinshuju.net/api/v1/forms/BI4Zyh",
