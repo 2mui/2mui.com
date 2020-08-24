@@ -23,6 +23,35 @@ $(document).ready(function() {
     $('.site-testimonial-item').removeClass('inactive');
     $('.site-testimonial-item').removeClass('active');
   });
+
+  $(document).on("submit", "#contact-form", function(e){
+    e.preventDefault()
+
+    var d = {
+      firstname: $("input[name='first-name']").val(),
+      phone: $("input[name='phone']").val(),
+      email: $("input[name='email']").val(),
+      description: $("input[name='email']").val(),
+    }
+    console.log(d)
+    $.ajax({
+      type: "POST",
+      url: "https://jinshuju.net/api/v1/forms/BI4Zyh",
+      data: d,
+      contentType: "application/json; charset=utf-8",
+      dataType: "json",
+      beforeSend: function (xhr) {
+        xhr.setRequestHeader("Authorization", "Basic " + "SXA3aG92MFExS0ZQNHFTY0NVaEJ4ZzpRcmkwR1JrLVVNNTBmdkxCNmRMRGVn");
+      },
+      success: function (response) {
+        window.location.href = "/"
+      },
+      error: function(error) {
+        console.log(error)
+      }
+    });
+
+  })
 });
 
 $(window).on('scroll', function () {
