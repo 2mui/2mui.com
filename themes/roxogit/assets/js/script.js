@@ -26,29 +26,34 @@ $(document).ready(function() {
 
   $(document).on("submit", "#contact-form", function(e){
     e.preventDefault()
-
-    var d = {
-      field_1: $("input[name='first-name']").val(),
-      field_2: $("input[name='phone']").val(),
-      field_3: $("input[name='email']").val(),
-      field_4: $("input[name='description']").val(),
-    }
+    // var d = {
+    //   "field_1": $("input[name='first-name']").val(),
+    //   "field_2": $("input[name='phone']").val(),
+    //   "field_3": $("input[name='email']").val(),
+    //   "field_4": $("textarea[name='description']").val(),
+    // }
     console.log(d)
-    $.ajax({
-      type: "POST",
-      url: "https://jinshuju.net/api/v1/forms/BI4Zyh",
-      data: d,
-      contentType: "application/json; charset=utf-8",
-      dataType: "json",
-      beforeSend: function (xhr) {
-        xhr.setRequestHeader("Authorization", "Basic " + "SXA3aG92MFExS0ZQNHFTY0NVaEJ4ZzpRcmkwR1JrLVVNNTBmdkxCNmRMRGVn");
+    var form = new FormData();
+    form.append("field_1", $("input[name='first-name']").val());
+    form.append("field_2", $("input[name='phone']").val());
+    form.append("field_1", $("input[name='email']").val());
+    form.append("field_1", $("textarea[name='description']").val());
+
+    var settings = {
+      "url": "https://jinshuju.net/api/v1/forms/BI4Zyh",
+      "method": "POST",
+      "timeout": 0,
+      "headers": {
+        "Authorization": "Basic SXA3aG92MFExS0ZQNHFTY0NVaEJ4ZzpRcmkwR1JrLVVNNTBmdkxCNmRMRGVn"
       },
-      success: function (response) {
-        window.location.href = "/"
-      },
-      error: function(error) {
-        console.log(error)
-      }
+      "processData": false,
+      "mimeType": "multipart/form-data",
+      "contentType": false,
+      "data": form
+    };
+
+    $.ajax(settings).done(function (response) {
+      console.log(response);
     });
 
   })
