@@ -1,7 +1,7 @@
 ---
 title: "2020-2021 设计趋势报告：用户体验篇"
 date: 2020-7-24T13:45:06+06:00
-keywords: "武汉UI设计,UI设计,UX设计,UE设计"
+keywords: "武汉UI设计 UI设计 UX设计 UE设计"
 image: images/blog/blog-post-04.jpg
 feature_image: images/blog/1.jpg
 author: ermu
