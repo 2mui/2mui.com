@@ -32,7 +32,7 @@ $(document).ready(function() {
     //   "field_3": $("input[name='email']").val(),
     //   "field_4": $("textarea[name='description']").val(),
     // }
-    console.log(d)
+    // console.log(d)
     var form = new FormData();
     form.append("field_1", $("input[name='first-name']").val());
     form.append("field_2", $("input[name='phone']").val());
@@ -54,6 +54,7 @@ $(document).ready(function() {
 
     $.ajax(settings).done(function (response) {
       console.log(response);
+      window.location.href = "/";
     });
 
   })
