@@ -4,7 +4,6 @@ const BASE_CACHE_FILES = [
     '/font-awesome/css/font-awesome.min.css',
     '/css/bootstrap.min.css',
     '/scss/style.min.css',
-    '/js/formhandler.min.js',
     '/js/vendor.min.js',
     '/js/script.min.js',
     '/manifest.webmanifest',
