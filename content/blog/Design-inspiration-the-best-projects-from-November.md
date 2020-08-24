@@ -1,9 +1,10 @@
 ---
 title: "引领视觉营销新趋势，图虫获2020金鼠标数字营销创新力大奖"
 date: 2019-12-24T12:58:17+06:00
+keywords: "武汉UI设计,UI设计,UX设计,UE设计"
 image: images/blog/blog-post-01.jpg
 feature_image: images/blog/blog-details-image.jpg
-author: Alexender Schoitiz
+author: ermu
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 月 23 日，第 11 届金鼠标数字营销大赛正式公布获奖名单。凭借领先的产品技术实力和广泛的客户认可，图虫从众多平台中脱颖而出，获得「年度数字营销创新力互联网平台」大奖。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为「数字营销领域的风向标」，金鼠标一直肩负着记录行业发展进化和颠覆创新的使命，挖掘并传递数字营销的黄金价值。本届金鼠标数字营销大赛共有 1300 余件作品参赛，涉及品牌广告主 600 余家。此次，图虫摘得大奖，不仅展现出其在行业里不俗的营销实力，更是业界对图虫在视觉营销领域突出成绩的最大认可。
