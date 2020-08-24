@@ -28,10 +28,10 @@ $(document).ready(function() {
     e.preventDefault()
 
     var d = {
-      firstname: $("input[name='first-name']").val(),
-      phone: $("input[name='phone']").val(),
-      email: $("input[name='email']").val(),
-      description: $("input[name='email']").val(),
+      field_1: $("input[name='first-name']").val(),
+      field_2: $("input[name='phone']").val(),
+      field_3: $("input[name='email']").val(),
+      field_4: $("input[name='description']").val(),
     }
     console.log(d)
     $.ajax({
