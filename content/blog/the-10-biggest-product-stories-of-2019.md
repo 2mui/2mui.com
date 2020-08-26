@@ -68,3 +68,8 @@ author: 二木
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更通俗的来说，就是借助语音交互，来实现自然语言交互。现在又来人工智能技术的加持，语音交互界面越来越强，有很多前沿的成熟的网站服务商，开始在网站当中集成这样的功能。虽然从目前而言，它的普及度和使用频率没有太高，但是它确实在稳步地增长，并且很多有障碍的用户，借助语音助手更好地同网站进行交互了。
 结语
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这些年来，网页设计已经发展到了一个非常成熟的阶段。从目前的市场状况来看，2020年，网页设计领域对于视觉设计有了更高的要求，技术仍然是驱动整个领域发展的主要动力。
+
+
+  <script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
+    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
+    <span data-hk-page="current"> - </span>
