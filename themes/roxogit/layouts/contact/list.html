@@ -13,10 +13,10 @@
           <form id="contact-form" action="{{ .Site.Params.formspreeFormUrl }}" method="POST">
             <div class="row">
               <div class="col-lg-6">
-                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="称呼">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="称呼" required>
               </div>
               <div class="col-lg-6">
-                <input type="text" class="form-control" name="phone" id="phone" placeholder="电话">
+                <input type="text" class="form-control" name="phone" id="phone" placeholder="电话" required>
               </div>
               <div class="col-lg-12">
                 <input type="email" class="form-control" name="email" id="email" placeholder="邮箱">
