@@ -11,7 +11,7 @@
 
 
 echo "building ......"
-hugo --baseURL=/ --gc --minify
+hugo --gc --minify
 
 echo "uploading ....."
 rsync -avP public/* ermu:~/ermu/
