@@ -1,4 +1,4 @@
-baseURL       = "/"
+baseURL       = "https://www.2mui.com/"
 languageCode  = "en-us"
 title         = "二木设计 | 武汉UI设计 | 专业UI设计"
 theme         = "roxogit"
