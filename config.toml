@@ -24,10 +24,15 @@ hasCJKLanguage=true
     name    = "新闻"
     url     = "blog"
     weight  = 4
+    [[menu.nav]]
+    name    = "招聘"
+    url     = "job"
+    weight  = 5
+  
   [[menu.nav]]
     name    = "联系我们"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
