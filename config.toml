@@ -24,15 +24,10 @@ hasCJKLanguage=true
     name    = "新闻"
     url     = "blog"
     weight  = 4
-    [[menu.nav]]
-    name    = "招聘"
-    url     = "job"
-    weight  = 5
-  
   [[menu.nav]]
     name    = "联系我们"
     url     = "contact"
-    weight  = 6
+    weight  = 5
 
 # Site Params
 [params]
@@ -77,7 +72,7 @@ hasCJKLanguage=true
       title   = "联系方式"
       address = "武汉市洪山区.<br>武大科技园豪迈大厦1栋106"
       phone   = "18671744221 王"
-      email   = "lanlinghj@qq.com"
+      email   = "ermu@2mui.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "网站地图"
