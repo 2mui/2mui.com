@@ -6,5 +6,5 @@ type: portfolio
 image: "images/projects/3/project-thumb-three.jpg"
 category: ["UI/UX 社交"]
 project_images: ["images/projects/3/project-detail-thumb-three.jpg"]
-weight: 100
+weight: 115
 ---

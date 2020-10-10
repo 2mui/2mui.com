@@ -6,5 +6,5 @@ type: portfolio
 image: "images/projects/15/main.jpg"
 category: ["UI/UX 健身"]
 project_images: ["images/projects/15/1.jpg","images/projects/15/2.png","images/projects/15/3.png"]
-weight: 120
+weight: 116
 ---
