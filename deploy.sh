@@ -18,3 +18,4 @@ rsync -avP public/* ermu:~/ermu/
 
 echo "reload web server ....."
 ssh ermu "sudo caddy reload --config /home/ubuntu/Caddyfile"
+ssh ermu "sudo systemctl start caddy"
