@@ -9,13 +9,12 @@
 # rsync -avP public/* ucloud.bj:~/ermu/
 # ssh ucloud.bj "sudo cp -r ermu/* /var/www/html/ermu/ && caddy reload --config /etc/caddy/Caddyfile"
 
-
 echo "building ......"
 hugo --gc --minify
 
 echo "uploading ....."
-rsync -avP public/* ermu:~/ermu/
+rsync -avP public/* ermu:~/2mui.com/
 
-echo "reload web server ....."
-ssh ermu "sudo caddy reload --config /home/ubuntu/Caddyfile"
-ssh ermu "sudo systemctl start caddy"
+echo "reload caddy web server ....."
+ssh ermu "sudo cp -r ~/2mui.com/* /var/www/html/2mui.com/"
+ssh ermu "sudo systemctl reload caddy"
