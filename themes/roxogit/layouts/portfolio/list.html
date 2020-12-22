@@ -3,19 +3,17 @@
 <section class="site-project-header">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-8">
+      <div class="col-lg-12 text-center">
         <div class="site-project-header-content">
           <h1>
             {{ .Title | safeHTML }}
           </h1>
+          <p style="padding: 20px;line-height: 25px;"> 
+            {{ .Description | safeHTML }}
+          </p>
         </div>
       </div>
-      <div class="col-lg-4">
-        <a href="#project" class="site-project-header-action scroll-to">
-          <span>向下滑动</span>
-          <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
-        </a>
-      </div>
+      
     </div>
   </div>
 </section>

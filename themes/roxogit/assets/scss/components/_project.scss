@@ -97,10 +97,10 @@
     }
   }
   &-header{
-    padding: 170px 0 100px;
+    padding: 170px 0 0px;
     background: $gray;
     @include tablet{
-      padding: 120px 0 80px;
+      padding: 10px 0 80px;
     }
     &-content{
       h1{
@@ -173,7 +173,7 @@
   }
   &-single{
     &-section{
-      padding: 250px 0 100px;
+      padding: 200px 0 100px;
       @include tablet{
         padding: 100px 0;
       }
