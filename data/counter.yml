@@ -1,12 +1,12 @@
 enable : true
 counter_item: 
   - title: "合作客户"
-    number: "20"
+    number: "50"
 
   - title: "项目完成"
-    number: "30"
+    number: "80"
 
   - title: "专业设计师"
-    number: "20"
+    number: "10"
 
  
