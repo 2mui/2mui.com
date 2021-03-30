@@ -13,8 +13,8 @@ echo "building ......"
 hugo --gc --minify
 
 echo "uploading ....."
-rsync -avP public/* ermu:~/2mui.com/
+rsync -avP public/* 2mui.com:~/2mui.com/
 
 echo "reload caddy web server ....."
-ssh ermu "sudo cp -r ~/2mui.com/* /var/www/html/2mui.com/"
-ssh ermu "sudo systemctl reload caddy"
+ssh 2mui.com "sudo cp -r ~/2mui.com/* /var/www/html/2mui.com/"
+ssh 2mui.com "sudo systemctl reload caddy"
