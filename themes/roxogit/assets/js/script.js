@@ -53,7 +53,9 @@ $(document).ready(function() {
       "data": form
     };
 
+
     $.ajax(settings).done(function (response) {
+      alert("提交成功,我们销售人员会第一时间联系您！")
       console.log(response);
       window.location.href = "/";
     });
