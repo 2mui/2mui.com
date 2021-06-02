@@ -3,24 +3,24 @@ title   : "客户反馈"
 subtitle: "客户对我们的评价"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "孙海楠"
+    company_position: "CEO, 软帝集团"
+    quote : > 
+            "包月合作，设计质量高、速度快、服务好，对于招生业务增长有明显效果。长期合作，实现共赢！" 
+  - thumb : "images/testimonial/user-thumb-four.jpg"
     name  : "路明超"
     company_position: "总经理, 星林信息"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
-    quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "三年设计师的价格享受10年设计师的服务，项目视觉效果提升了几个档次，甲方满意，我们更满意！" 
 
   - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+    name  : "张家龙"
+    company_position: "董事长, 鑫达标"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "和二木设计合作以后，公司UI再也没有操心过。上门沟通、及时交稿、随时更改、甚至可以出差去外地。很好的解决了公司UI设计工作量不饱和的问题。" 
 
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
+  - thumb : "images/testimonial/user-thumb-four.jpg"
+    name  : "亿力电子"
+    company_position: "项目经理, 周拓进"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "从用户体验角度重新设计了公司产品，包括动效、3D，用户反馈很好。反复频繁的修改，全力配合前端实现页面还原。愿携手前进，越来越好。" 
