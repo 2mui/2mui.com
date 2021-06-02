@@ -6,5 +6,5 @@ type: portfolio
 image: "images/projects/25/mane-main.jpg"
 category: ["PC/平台"]
 project_images: ["images/projects/25/main.png"]
-weight: 127
+weight: 123
 ---
