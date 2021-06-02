@@ -17,4 +17,5 @@ rsync -avP public/* 2mui.com:~/2mui.com/
 
 echo "reload caddy web server ....."
 ssh 2mui.com "sudo cp -r ~/2mui.com/* /var/www/html/2mui.com/"
+ssh 2mui.com "sudo chmod -R +644 /var/www/html/2mui.com/"
 ssh 2mui.com "sudo systemctl reload caddy"
