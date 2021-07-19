@@ -70,7 +70,7 @@ hasCJKLanguage=true
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "联系方式"
-      address = "武汉市洪山区.<br>武大科技园豪迈大厦3栋研发楼602-603"
+      address = "武汉市洪山区.<br>武大科技园豪迈大厦3栋602-603"
       phone   = "18671744221 王  18064068194  艾"
       email   = "ermu@2mui.com"
       # Footer Sitemap
