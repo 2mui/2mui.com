@@ -55,11 +55,7 @@
       <div class="col-lg-3 col-12">
         <a href="#top" class="site-footer-widget-top">
           <img src="{{ "images/to-top.svg" | absURL }}" alt="back-to-top">
-          <p>
-           回到顶部
-          <br>
-          <br>
-          <span><a href="http://beian.miit.gov.cn">备案号：鄂ICP备20013758号-1</a></span> 
+          <span><a href="http://beian.miit.gov.cn">备案号：鄂ICP备20013758号-1</a></span>
           </p>
         </a>
       </div>
@@ -67,7 +63,9 @@
   </div>
 </footer>
 
-{{ $vendor := resources.Get "js/vendor.js" | minify }}
+{{ $vendor := resources.Get "js/vendor.js" | minify | resources.Fingerprint "sha512" }}
 <script src="{{ $vendor.Permalink }}"></script>
-{{ $script := resources.Get "js/script.js" | minify }}
+{{ $airtable := resources.Get "js/airtable.browser.js" | minify | resources.Fingerprint "sha512"}}
+<script src="{{ $airtable.Permalink }}"></script>
+{{ $script := resources.Get "js/script.js" | minify | resources.Fingerprint "sha512"}}
 <script src="{{ $script.Permalink }}"></script>
