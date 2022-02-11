@@ -7,7 +7,7 @@
   {{ $realDescription := or .Description .Site.Params.description}}
   <meta name="description" content="{{ $realDescription }}">
   <meta property="og:description" content="{{ $realDescription }}">
-  
+
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -28,7 +28,6 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
   <link rel="icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />
-  <script defer src="https://cdn.jsdelivr.net/npm/turbolinks@5.2.0/dist/turbolinks.min.js"></script>
 
   <script type="text/javascript">
     if ('serviceWorker' in navigator) {
@@ -52,9 +51,9 @@
     (function() {
       var hm = document.createElement("script");
       hm.src = "https://hm.baidu.com/hm.js?8fa8aa206efa81bb4ed82da020b8c1af";
-      var s = document.getElementsByTagName("script")[0]; 
+      var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
     </script>
-    
+
 </head>
